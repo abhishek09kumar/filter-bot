@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
-SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = -1001884373226
-ADMIN        = 1350642629
-CHANNEL      = "@GreyMatter_Bots"
+API_ID       =  22359378 
+API_HASH     = "f4c7ef49154f7a6117adf93b22f75eae"
+BOT_TOKEN    = "7211373538:AAFF4CE8SPqVN0INamOctekLWcLRF0_ktcw"
+SESSION      = "BQFVLVIAice96JwdfQDUEFqcw9Yv57BmMFC5Rn_YCKuCu6m-0PNGzMOKtWZYiqlEpct3xERhntZkEtCZP2EeQA1Fhdjhu8h_ayHmXumlKPvt1v6T4L-dkKoZAfR-7iwNB-bMHL_0F_NcWm0HcxXZo7PszCtmx7WkXhQctUxjNnx72xYQueP3Hp0Bv9cL1vOOCxzwi1gBL7e5jn2brQa7Z6BdEA_CKikcwwlG5Ebhor_y_AALRM-pz7AhivJuL6AI3Cv9Zh68p8OxS6_Ya-yKLGULOJ29a2FKheesIMbJMZ3sh2jhtvVMQwKFlz59QCwciknBAUUue1y4nJB6RAVz6Ek39J-E_wAAAABJdOwCAA"
+DATABASE_URI = "mongodb+srv://thorRagnarok:C6lKHXG2TG71y3pi@cluster0.h4t62un.mongodb.net"
+LOG_CHANNEL  = -1002174645423
+ADMIN        =  1232399362
+CHANNEL      = "@dkjdkjddjjd"
